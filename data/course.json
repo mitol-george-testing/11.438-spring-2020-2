@@ -1,0 +1,38 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Developmental Economics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "5e904b75-db84-c339-6b58-540b8daff232"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Economic Development Planning",
+  "course_description": "This course examines why we plan for economic development, how government is funded in the US, what strategies are commonly used to attract and retain development, and how effective they are at accomplishing goals. We look at the tools and techniques of development through a variety of lenses, including those of effectiveness, equity, sustainability, and impacts on other aspects of public finance.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.438",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
